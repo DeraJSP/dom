@@ -1,4 +1,4 @@
-
+/* 
 #container {
     display: flex;
     justify-content: space-around;
@@ -20,4 +20,15 @@
 ul > li {
     font-size: xx-large;
     font-weight: 900;
+} */
+
+#productList,
+#test {
+  display: flex;
+  column-gap: 100px;
+}
+
+span {
+  font-size: 350px;
+  background-color: aquamarine;
 }
